@@ -1,4 +1,4 @@
-#APA Formatting Tool
+# APA Formatting Tool
 
 This is a simple program written in Python that's designed to make APA referencing less of an absolute headache.
 
